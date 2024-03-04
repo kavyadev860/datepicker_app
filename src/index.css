@@ -1,0 +1,15 @@
+.MuiBackdrop-invisible {
+  display: none !important;
+}
+
+.MuiBox-root.css-14wf2qq {
+  display: none !important;
+}
+
+.MuiOutlinedInput-input{
+  outline: none !important;
+}
+
+.MuiGrid-container  .MuiDivider-root{
+  display: none;
+}
